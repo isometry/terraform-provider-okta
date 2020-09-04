@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "darwin_amd64": {
+      "hashes": [
+        "h1:hVJZxnpGjQ7K7GSJal6otPmb6Z0D2Nios6PN6AV3uz4="
+      ],
+      "url": "terraform-provider-okta_3.5.0_darwin_amd64.zip"
+    }
+  }
+}
